@@ -1,0 +1,24 @@
+.card-title {
+	text-align: center;
+}
+
+#gmap_canvas {
+	height: 60vh;
+	width: 100%;
+}
+
+.fab {
+	font-size: 2rem;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+* {
+	font-family: "Poppins",sans-serif;
+}
+
+h1,h2,h3,h4, .nav-link,.card-title {
+	font-family: "Lora",serif;
+}
